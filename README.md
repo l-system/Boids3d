@@ -68,3 +68,11 @@ Feel free to experiment with the parameters and code - that's what it's here for
 The simulation features a dynamic color-shifting shader that cycles through the color spectrum over time, creating an ethereal, ever-changing visual experience. Each boid glows with complementary colors and fresnel effects that make the flock appear alive and organic.
 
 Perfect for demonstrating emergent behavior, swarm intelligence, or simply enjoying a relaxing algorithmic art piece!# Boids3d
+
+
+
+![image](https://github.com/user-attachments/assets/8b0238e1-a099-4d3d-9dd4-47fa638bec7c)
+
+![image](https://github.com/user-attachments/assets/9080f085-a30d-4625-a896-e8f7497f79fa)
+
+
